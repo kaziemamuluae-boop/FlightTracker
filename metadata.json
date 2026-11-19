@@ -1,0 +1,6 @@
+{
+  "name": "Flight Tracker",
+  "description": "Worldwide real-time flight tracking, interactive aviation radar maps, airport flight boards, airline fleets, aircraft specs, weather, and flight alerts powered by AirLabs v9.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
